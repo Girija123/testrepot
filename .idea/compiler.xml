@@ -9,5 +9,8 @@
         <module name="NextAutomationPOM" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="testrepot" target="8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
